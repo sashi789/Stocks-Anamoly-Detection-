@@ -1,0 +1,22 @@
+{
+    "result": {
+        "NVDA": [
+            {
+                "d0": "2025-04-23",
+                "d1": "2025-05-23",
+                "s": "11667"
+            }
+        ]
+    },
+    "symbols": [
+        "NVDA"
+    ],
+    "stype_in": "raw_symbol",
+    "stype_out": "instrument_id",
+    "start_date": "2025-04-23",
+    "end_date": "2025-05-23",
+    "partial": [],
+    "not_found": [],
+    "message": "OK",
+    "status": 0
+}
