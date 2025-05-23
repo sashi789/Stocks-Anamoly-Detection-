@@ -95,13 +95,13 @@ quix pipeline up
 ---
 ### 🔍 Redpanda Topic: Raw Stock Stream
 
-![Redpanda Stocks](images/Screenshot 2025-05-23 at 1.54.53 AM.png)
+![Redpanda Stocks](images/stockstopic.png)
 
 ---
 
 ### 🚨 Redpanda Topic: Detected Anomalies
 
-![Redpanda Anomalies](images/Screenshot 2025-05-23 at 1.57.38 AM.png)
+![Redpanda Anomalies](images/anamoliestopic.png)
 
 ## 📊 Detection Logic
 
