@@ -145,7 +145,7 @@ Detects anomalous prices using a rolling `IsolationForest` model:
 
 **Sashidhar Chary Viswanathula**
 Data Engineering & Analytics Enthusiast
-[LinkedIn](https://www.linkedin.com/in/sashidhar-chary) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/sashidharchary) • [GitHub](https://github.com/sashi789)
 
 ---
 
